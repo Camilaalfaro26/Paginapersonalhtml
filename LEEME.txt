@@ -1,0 +1,15 @@
+ANTES DE ENTREGAR
+1. En index.html completa el carnet académico, correo y enlace de GitHub.
+2. Confirma que el año de estudio, la formación y la experiencia correspondan a tu situación actual.
+3. Abre index.html y prueba las tres páginas, el video y el audio.
+4. Sube la carpeta tarea-html5 (sin comprimir) a tu repositorio público de GitHub.
+5. Entrega en Moodle el enlace a esa carpeta del repositorio.
+
+GIT (desde la raíz de tu repositorio existente, después de copiar la carpeta):
+git add tarea-html5
+git commit -m "Agregar sitio personal de tres páginas en HTML5"
+git push
+
+No se incluyen dirección, teléfono ni documentos personales.
+La imagen de perfil es una ilustración, no una fotografía.
+Los recursos multimedia originales funcionan sin conexión.

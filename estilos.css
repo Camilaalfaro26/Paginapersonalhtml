@@ -1,0 +1,16 @@
+body { margin: 24px; max-width: 680px; font-family: Arial, sans-serif; line-height: 1.6; color: #30253c; background: #faf8fc; }
+header img { display: block; }
+h1, h2, h3 { line-height: 1.25; color: #613b7a; }
+nav, section, footer { margin: 18px 0; padding: 18px; border: 1px solid #ded3e7; background: white; }
+nav a { display: inline-block; margin-right: 16px; }
+a { color: #693b85; }
+a:hover { color: #a44572; }
+[aria-current="page"] { font-weight: bold; }
+dt { font-weight: bold; }
+dd { margin: 0 0 10px; }
+table { width: 100%; border-collapse: collapse; }
+th, td { padding: 10px; border: 1px solid #ded3e7; text-align: left; }
+th { background: #eee6f5; }
+video, audio { display: block; width: 100%; max-width: 560px; }
+.pendiente { background: #fff0ce; padding: 2px 5px; }
+footer { font-size: 0.9rem; }
